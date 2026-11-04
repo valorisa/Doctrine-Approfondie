@@ -1,7 +1,7 @@
 # Doctrine-Approfondie
-Justices distributive et commutative - cours 6 -7 ème année. 
+Justices distributive et commutative - cours 6 - 7 ème année. 
 
-### Synthèse intégrale du cours — La vertu de justice chez saint Thomas d’Aquin
+## Synthèse intégrale du cours — La vertu de justice chez saint Thomas d’Aquin
 
 Fondement doctrinal, espèces de justice, égalité proportionnelle et principe de restitution
 
